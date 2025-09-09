@@ -1,7 +1,5 @@
 # Calculadora PRN - Entrega completa
 
-Proyecto para la asignatura: Generadores pseudoaleatorios y pruebas estadísticas.
-
 ## Estructura
 
 - main.py: Aplicación principal con GUI basada en tkinter y pestañas.
