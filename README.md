@@ -9,7 +9,7 @@
 
 ## Requisitos
 
-- Python 3.10+
+- Python 3.13
 - pip install -r requirements.txt
 
 ## Ejecutar
