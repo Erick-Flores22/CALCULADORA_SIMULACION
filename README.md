@@ -1,4 +1,4 @@
-# Calculadora PRN - Entrega completa
+# Calculadora de algoritmos y pruebas (ENTREGA PRIMER PARCIAL)
 
 ## Estructura
 
